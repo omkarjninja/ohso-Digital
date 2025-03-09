@@ -178,7 +178,7 @@ const Navbar = () => {
             className="menu px-4 py-6 overflow-y-hidden bg-orange-600 w-full h-full absolute z-20 top-0 left-0 flex justify-between items-start flex-col"
           >
             <div className="mobile__header w-full flex justify-between items-center overflow-y-hidden">
-              <div className="logo text-2xl">rejoiuce</div>
+              <div className="logo text-2xl">Ohso Creative</div>
               <div
                 onClick={openMenuHandler}
                 className="close__icon border border-black flex justify-center  font-light items-center rounded-full w-14 text-2xl text-center h-14"
