@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Rejoice Website 🚀
 
-## Getting Started
+Welcome to Rejoice Website, a stunning and immersive web experience crafted with Next.js, GSAP animations, and smooth scrolling effects. Explore the world of creativity and innovation with Rejoice Website!
 
-First, run the development server:
+## Screenshots
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Rejoiuce](https://github.com/amanqureshi454/Awwards-Website-Rejouice/assets/119878277/8a5dc2a6-1cb9-44ce-a489-82750c4de69d)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+![Rejouice-2](https://github.com/amanqureshi454/Awwards-Website-Rejouice/assets/119878277/ddb1db34-0fbf-4b63-b22f-bd6cfc43b2f1)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+![Rejouice-3](https://github.com/amanqureshi454/Awwards-Website-Rejouice/assets/119878277/b903bed3-8056-4d7e-916b-923b41e6621d)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Features ✨
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Eye-Catching Design**: Every aspect of the website is meticulously designed to captivate and engage visitors. From vibrant colors to sleek animations, every detail is carefully thought out to create a visually stunning experience.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Next.js Power**: Leveraging the power of Next.js, the website delivers lightning-fast performance and seamless navigation. With server-side rendering and optimized routing, Rejoice Website provides a smooth and responsive user experience.
+
+- **GSAP Animations**: Bringing life to the website with GSAP animations, dynamic effects dazzle and delight. From smooth transitions to interactive elements, GSAP elevates the user experience to a whole new level.
+
+- **Immersive Scroll Effects**: With lines scroll and other immersive scroll effects, Rejoice Website offers a unique and memorable browsing experience. Users can explore content effortlessly while enjoying fluid and intuitive scrolling.
+
+- **Showcasing Skills**: This project not only demonstrates technical skills but also showcases creativity and attention to detail. From concept to execution, every aspect of Rejoice Website reflects a passion for web development and design.
+
+## Technologies Used 🛠️
+
+- Next.js
+- GSAP
+- Tailwind CSS
+- Smooth Scroll Effects
+
+
+Explore Rejoice Website: Rejoice Website : https://awwards-website-rejouice.vercel.app/
